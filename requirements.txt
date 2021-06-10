@@ -14,7 +14,7 @@ configparser==3.5.0
 cryptography==2.2.2
 distlib==0.2.7
 dj-database-url==0.5.0
-Django==2.0.4
+Django==2.2.24
 django-appconf==1.0.2
 django-collectstatic-bower==0.1.2
 django-forms-bootstrap==3.1.0
